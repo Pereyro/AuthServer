@@ -1,1 +1,2 @@
 # SimpleCherryPy
+# Auth server
